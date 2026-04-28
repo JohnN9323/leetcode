@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0036-valid-sudoku](https://github.com/JohnN9323/leetcode/tree/master/0036-valid-sudoku) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/JohnN9323/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
 | [0152-maximum-product-subarray](https://github.com/JohnN9323/leetcode/tree/master/0152-maximum-product-subarray) |
 | [0189-rotate-array](https://github.com/JohnN9323/leetcode/tree/master/0189-rotate-array) |
@@ -25,4 +26,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0189-rotate-array](https://github.com/JohnN9323/leetcode/tree/master/0189-rotate-array) |
+## Hash Table
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/JohnN9323/leetcode/tree/master/0036-valid-sudoku) |
+## Matrix
+|  |
+| ------- |
+| [0036-valid-sudoku](https://github.com/JohnN9323/leetcode/tree/master/0036-valid-sudoku) |
 <!---LeetCode Topics End-->
